@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\Encapsulation Exercises\bin\Debug\netcoreapp2.1\ClassBox.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\Encapsulation Exercises\bin\Debug\netcoreapp2.1\ClassBox.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\Encapsulation Exercises\bin\Debug\netcoreapp2.1\ClassBox.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\Encapsulation Exercises\bin\Debug\netcoreapp2.1\ClassBox.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\Encapsulation Exercises\bin\Debug\netcoreapp2.1\ClassBox.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\Encapsulation Exercises\obj\Debug\netcoreapp2.1\ClassBox.csprojAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\Encapsulation Exercises\obj\Debug\netcoreapp2.1\ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\Encapsulation Exercises\obj\Debug\netcoreapp2.1\ClassBox.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\Encapsulation Exercises\obj\Debug\netcoreapp2.1\ClassBox.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\Encapsulation Exercises\obj\Debug\netcoreapp2.1\ClassBox.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\Encapsulation Exercises\obj\Debug\netcoreapp2.1\ClassBox.pdb

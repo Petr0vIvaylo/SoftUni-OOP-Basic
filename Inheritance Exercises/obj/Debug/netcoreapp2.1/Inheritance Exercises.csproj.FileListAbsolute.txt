@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Inheritance Exercises\bin\Debug\netcoreapp2.1\Inheritance Exercises.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Inheritance Exercises\bin\Debug\netcoreapp2.1\Inheritance Exercises.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Inheritance Exercises\bin\Debug\netcoreapp2.1\Inheritance Exercises.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Inheritance Exercises\bin\Debug\netcoreapp2.1\Inheritance Exercises.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Inheritance Exercises\bin\Debug\netcoreapp2.1\Inheritance Exercises.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Inheritance Exercises\obj\Debug\netcoreapp2.1\Inheritance Exercises.csprojAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Inheritance Exercises\obj\Debug\netcoreapp2.1\Inheritance Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Inheritance Exercises\obj\Debug\netcoreapp2.1\Inheritance Exercises.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Inheritance Exercises\obj\Debug\netcoreapp2.1\Inheritance Exercises.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Inheritance Exercises\obj\Debug\netcoreapp2.1\Inheritance Exercises.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Inheritance Exercises\obj\Debug\netcoreapp2.1\Inheritance Exercises.pdb

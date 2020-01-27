@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\CarSalesman\bin\Debug\netcoreapp2.1\CarSalesman.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csprojAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\CarSalesman\obj\Debug\netcoreapp2.1\CarSalesman.pdb

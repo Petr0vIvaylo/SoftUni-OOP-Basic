@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\RectangleIntersection\bin\Debug\netcoreapp2.1\RectangleIntersection.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.csprojAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Exercise\RectangleIntersection\obj\Debug\netcoreapp2.1\RectangleIntersection.pdb

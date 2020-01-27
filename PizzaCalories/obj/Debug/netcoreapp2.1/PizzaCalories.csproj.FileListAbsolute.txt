@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\PizzaCalories\bin\Debug\netcoreapp2.1\PizzaCalories.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.csprojAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\PizzaCalories\obj\Debug\netcoreapp2.1\PizzaCalories.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\AnimalFarm\bin\Debug\netcoreapp2.1\AnimalFarm.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\AnimalFarm\obj\Debug\netcoreapp2.1\AnimalFarm.pdb

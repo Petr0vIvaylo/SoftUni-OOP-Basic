@@ -1,0 +1,21 @@
+C:\Users\Ivaikata\Desktop\bin\Debug\netcoreapp2.1\Mankind.deps.json
+C:\Users\Ivaikata\Desktop\bin\Debug\netcoreapp2.1\Mankind.runtimeconfig.json
+C:\Users\Ivaikata\Desktop\bin\Debug\netcoreapp2.1\Mankind.runtimeconfig.dev.json
+C:\Users\Ivaikata\Desktop\bin\Debug\netcoreapp2.1\Mankind.dll
+C:\Users\Ivaikata\Desktop\bin\Debug\netcoreapp2.1\Mankind.pdb
+C:\Users\Ivaikata\Desktop\obj\Debug\netcoreapp2.1\Mankind.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Desktop\obj\Debug\netcoreapp2.1\Mankind.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Desktop\obj\Debug\netcoreapp2.1\Mankind.AssemblyInfo.cs
+C:\Users\Ivaikata\Desktop\obj\Debug\netcoreapp2.1\Mankind.dll
+C:\Users\Ivaikata\Desktop\obj\Debug\netcoreapp2.1\Mankind.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Mankind\bin\Debug\netcoreapp2.1\Mankind.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Mankind\bin\Debug\netcoreapp2.1\Mankind.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Mankind\bin\Debug\netcoreapp2.1\Mankind.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Mankind\bin\Debug\netcoreapp2.1\Mankind.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Mankind\bin\Debug\netcoreapp2.1\Mankind.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Mankind\obj\Debug\netcoreapp2.1\Mankind.csprojAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Mankind\obj\Debug\netcoreapp2.1\Mankind.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Mankind\obj\Debug\netcoreapp2.1\Mankind.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Mankind\obj\Debug\netcoreapp2.1\Mankind.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Mankind\obj\Debug\netcoreapp2.1\Mankind.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\Mankind\obj\Debug\netcoreapp2.1\Mankind.pdb

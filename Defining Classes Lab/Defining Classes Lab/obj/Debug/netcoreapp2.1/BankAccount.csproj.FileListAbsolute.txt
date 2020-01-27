@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\bin\Debug\netcoreapp2.1\BankAccount.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\bin\Debug\netcoreapp2.1\BankAccount.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\bin\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\bin\Debug\netcoreapp2.1\BankAccount.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\obj\Debug\netcoreapp2.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\obj\Debug\netcoreapp2.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\obj\Debug\netcoreapp2.1\BankAccount.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\obj\Debug\netcoreapp2.1\BankAccount.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\obj\Debug\netcoreapp2.1\BankAccount.pdb

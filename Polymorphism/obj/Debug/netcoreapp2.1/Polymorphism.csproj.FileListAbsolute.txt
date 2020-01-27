@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Polymorphism\Polymorphism\bin\Debug\netcoreapp2.1\Polymorphism.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Polymorphism\Polymorphism\bin\Debug\netcoreapp2.1\Polymorphism.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Polymorphism\Polymorphism\bin\Debug\netcoreapp2.1\Polymorphism.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Polymorphism\Polymorphism\bin\Debug\netcoreapp2.1\Polymorphism.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Polymorphism\Polymorphism\bin\Debug\netcoreapp2.1\Polymorphism.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Polymorphism\Polymorphism\obj\Debug\netcoreapp2.1\Polymorphism.csprojAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Polymorphism\Polymorphism\obj\Debug\netcoreapp2.1\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Polymorphism\Polymorphism\obj\Debug\netcoreapp2.1\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Polymorphism\Polymorphism\obj\Debug\netcoreapp2.1\Polymorphism.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Polymorphism\Polymorphism\obj\Debug\netcoreapp2.1\Polymorphism.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Polymorphism\Polymorphism\obj\Debug\netcoreapp2.1\Polymorphism.pdb

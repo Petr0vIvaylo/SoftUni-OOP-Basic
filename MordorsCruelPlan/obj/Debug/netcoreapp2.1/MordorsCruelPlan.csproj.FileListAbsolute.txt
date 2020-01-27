@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\MordorsCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\MordorsCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\MordorsCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\MordorsCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\MordorsCruelPlan\bin\Debug\netcoreapp2.1\MordorsCruelPlan.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\MordorsCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.csprojAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\MordorsCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\MordorsCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\MordorsCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\MordorsCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Inheritance Exercises\MordorsCruelPlan\obj\Debug\netcoreapp2.1\MordorsCruelPlan.pdb

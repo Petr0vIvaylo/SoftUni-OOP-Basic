@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\BoxDataValidation\bin\Debug\netcoreapp2.1\BoxDataValidation.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\BoxDataValidation\bin\Debug\netcoreapp2.1\BoxDataValidation.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\BoxDataValidation\bin\Debug\netcoreapp2.1\BoxDataValidation.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\BoxDataValidation\bin\Debug\netcoreapp2.1\BoxDataValidation.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\BoxDataValidation\bin\Debug\netcoreapp2.1\BoxDataValidation.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\BoxDataValidation\obj\Debug\netcoreapp2.1\BoxDataValidation.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\BoxDataValidation\obj\Debug\netcoreapp2.1\BoxDataValidation.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\BoxDataValidation\obj\Debug\netcoreapp2.1\BoxDataValidation.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\BoxDataValidation\obj\Debug\netcoreapp2.1\BoxDataValidation.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\BoxDataValidation\obj\Debug\netcoreapp2.1\BoxDataValidation.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Encapsulation Exercises\BoxDataValidation\obj\Debug\netcoreapp2.1\BoxDataValidation.csprojAssemblyReference.cache

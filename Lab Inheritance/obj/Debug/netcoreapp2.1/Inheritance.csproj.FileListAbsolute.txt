@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Lab Inheritance\Lab Inheritance\bin\Debug\netcoreapp2.1\Inheritance.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Lab Inheritance\Lab Inheritance\bin\Debug\netcoreapp2.1\Inheritance.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Lab Inheritance\Lab Inheritance\bin\Debug\netcoreapp2.1\Inheritance.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Lab Inheritance\Lab Inheritance\bin\Debug\netcoreapp2.1\Inheritance.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Lab Inheritance\Lab Inheritance\bin\Debug\netcoreapp2.1\Inheritance.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Lab Inheritance\Lab Inheritance\obj\Debug\netcoreapp2.1\Inheritance.csprojAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Lab Inheritance\Lab Inheritance\obj\Debug\netcoreapp2.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Lab Inheritance\Lab Inheritance\obj\Debug\netcoreapp2.1\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Lab Inheritance\Lab Inheritance\obj\Debug\netcoreapp2.1\Inheritance.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Lab Inheritance\Lab Inheritance\obj\Debug\netcoreapp2.1\Inheritance.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Lab Inheritance\Lab Inheritance\obj\Debug\netcoreapp2.1\Inheritance.pdb

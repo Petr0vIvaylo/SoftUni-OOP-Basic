@@ -1,0 +1,11 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\bin\Debug\netcoreapp2.1\Defining Classes Lab.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\bin\Debug\netcoreapp2.1\Defining Classes Lab.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\bin\Debug\netcoreapp2.1\Defining Classes Lab.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\bin\Debug\netcoreapp2.1\Defining Classes Lab.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\bin\Debug\netcoreapp2.1\Defining Classes Lab.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\obj\Debug\netcoreapp2.1\Defining Classes Lab.csprojAssemblyReference.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\obj\Debug\netcoreapp2.1\Defining Classes Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\obj\Debug\netcoreapp2.1\Defining Classes Lab.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\obj\Debug\netcoreapp2.1\Defining Classes Lab.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\obj\Debug\netcoreapp2.1\Defining Classes Lab.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\Defining Classes Lab\Defining Classes Lab\obj\Debug\netcoreapp2.1\Defining Classes Lab.pdb

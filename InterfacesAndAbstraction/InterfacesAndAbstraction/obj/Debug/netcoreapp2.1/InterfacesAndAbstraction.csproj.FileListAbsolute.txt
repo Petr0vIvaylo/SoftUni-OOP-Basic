@@ -1,0 +1,10 @@
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp2.1\InterfacesAndAbstraction.deps.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp2.1\InterfacesAndAbstraction.runtimeconfig.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp2.1\InterfacesAndAbstraction.runtimeconfig.dev.json
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp2.1\InterfacesAndAbstraction.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\InterfacesAndAbstraction\InterfacesAndAbstraction\bin\Debug\netcoreapp2.1\InterfacesAndAbstraction.pdb
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp2.1\InterfacesAndAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp2.1\InterfacesAndAbstraction.AssemblyInfoInputs.cache
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp2.1\InterfacesAndAbstraction.AssemblyInfo.cs
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp2.1\InterfacesAndAbstraction.dll
+C:\Users\Ivaikata\Documents\Visual Studio 2017\Projects\C# Advanced\OOP Basic\InterfacesAndAbstraction\InterfacesAndAbstraction\obj\Debug\netcoreapp2.1\InterfacesAndAbstraction.pdb
